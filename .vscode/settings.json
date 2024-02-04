@@ -1,0 +1,5 @@
+{
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "prettier.useEditorConfig": false,
+  "prettier.singleQuote": true // force single quote
+}
